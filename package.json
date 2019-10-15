@@ -1,0 +1,11 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LieselotGeirnaert/Labo04.git",
+  "author": "Lieselot Geirnaert <lieselot.geirnaert@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.41.1"
+  }
+}
